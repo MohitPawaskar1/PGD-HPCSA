@@ -18,6 +18,7 @@ class Rose extends Flower{
         color = c;
     }
     void show(){
+        super.show();
         System.out.println("Color : " + color);
     }
 
@@ -26,7 +27,7 @@ class OverRidding {
     public static void main(String[] args) {
         Rose r = new Rose("Red Rose" , 10, "Maroon");
         r.show();
-        r.show();
+        //r.show();
 
     }
     
