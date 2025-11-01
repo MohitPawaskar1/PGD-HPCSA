@@ -1,13 +1,11 @@
-import java.io.DataInputStream;
-import java.io.IOException;
+import java.util.Scanner;
 
 class Input{
-    public static void main(String[] args) throws IOException{
-        DataInputStream i = new DataInputStream(System.in);
-        String name = null;
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
         System.out.print("Please Enter Your Name: ");
-        name = i.readLine();
-        int num = Integer.parseInt(name);
-        System.out.println("Welcome "+ num);
+        String name = scan.nextLine();
+        System.out.println("Welcome "+ name);
+        scan.close();
     }
 }
