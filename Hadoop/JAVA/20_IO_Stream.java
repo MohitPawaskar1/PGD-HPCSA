@@ -7,6 +7,7 @@ class Input{
         String name = null;
         System.out.print("Please Enter Your Name: ");
         name = i.readLine();
-        System.out.println("Welcome "+ name);
+        int num = Integer.parseInt(name);
+        System.out.println("Welcome "+ num);
     }
 }
