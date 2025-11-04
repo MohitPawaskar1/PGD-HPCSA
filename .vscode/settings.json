@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
         "Hadoop/JAVA",
-        "Hadoop/Assignments/01. Assignment"
+        "Hadoop/Assignments/01. Assignment",
+        "Java"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
