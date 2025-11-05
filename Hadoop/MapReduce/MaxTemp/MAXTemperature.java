@@ -13,7 +13,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 import java.util.StringTokenizer;
 import java.io.IOException;
 
-public class MaxTemperature {
+public class MAXTemperature {
 	public static class MaxTemperatureMapper
 		extends Mapper<Object, Text, Text, FloatWritable> {
 	private Text yearKey = new Text(); 
@@ -76,7 +76,7 @@ public static void main(String[] args) throws Exception {
 	Configuration conf = new Configuration();
 	Job job = Job.getInstance(conf, "Max Temperature Finder"); 
 	// Set the main class for the job
-    job.setJarByClass (MaxTemperature.class);
+    job.setJarByClass (MAXTemperature.class);
 	// Set the Mapper class
 	job.setMapperClass (MaxTemperatureMapper.class);
 
