@@ -1,0 +1,6 @@
+Jan	Toys	1044	TVs	445	Mobiles	4675	Laptops	6566	PenDrives	323	Bottles	345	Books	2955	Shoes	4344	Cloths	8699	Jwellery	3555	Grocery	6850
+Feb	Toys	2344	TVs	466	Mobiles	8546	Laptops	6377	PenDrives	3233	Bottles	3455	Books	4444	Shoes	5566	Cloths	3267	Jwellery	5466	Grocery	8455
+Mar	Toys	4566	TVs	666	Mobiles	8566	Laptops	677	PenDrives	7835	Bottles	1834	Books	7585	Shoes	8499	Cloths	7735	Jwellery	8989	Grocery	8535
+Apr	Toys	2466	TVs	134	Mobiles	9435	Laptops	3298	PenDrives	909	Bottles	8456	Books	9000	Shoes	9946	Cloths	1004	Jwellery	4355	Grocery	90546
+May	Toys	8456	TVs	7567	Mobiles	1354	Laptops	6499	PenDrives	5467	Bottles	7588	Books	1222	Shoes	4244	Cloths	944	Jwellery	677	Grocery	9056
+Jun	Toys	9623	TVs	866	Mobiles	8564	Laptops	9456	PenDrives	9078	Bottles	748	Books	5490	Shoes	9067	Cloths	3455	Jwellery	1344	Grocery	4343

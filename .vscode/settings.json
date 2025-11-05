@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "Java",
         "Hadoop/JAVA",
         "Hadoop/Assignments/01. Assignment",
-        "Java"
+        "Hadoop/MapReduce/MaxTemp"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
