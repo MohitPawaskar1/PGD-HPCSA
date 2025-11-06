@@ -13,4 +13,5 @@ class Arrays_Operation {
     Arrays.sort(marks);
     System.out.println("Sorted Array   : "+marks[0]);
     }
+
 }
