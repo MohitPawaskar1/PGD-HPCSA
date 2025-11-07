@@ -1,0 +1,14 @@
+# This is our New User "testuser"
+
+dn: uid=acts,ou=People,dc=hadoop,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Test User
+sn: User
+uid: acts
+uidNumber: 10001
+gidNumber: 10000
+homeDirectory: /home/acts
+loginShell: /bin/bash
+userPassword: {SSHA}Eg3uusiF+wjxxrHAH4w7BgQmSXEPOcYi

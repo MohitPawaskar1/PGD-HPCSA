@@ -1,0 +1,10 @@
+# This is our "People" folder (Organizational Unit)
+dn: ou=People,dc=hadoop,dc=local
+objectClass: organizationalUnit
+ou: People
+
+
+# This is our "Groups" folder (Organizational Unit)
+dn: ou=Groups,dc=hadoop,dc=local
+objectClass: organizationalUnit
+ou: Groups
