@@ -1,0 +1,4 @@
+  File "<stdin>", line 1
+    print("Hello"
+         ^
+SyntaxError: '(' was never closed
